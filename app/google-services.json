@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032456527780",
+    "project_id": "fbtask-5838c",
+    "storage_bucket": "fbtask-5838c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032456527780:android:5914af21b5ae3ea17d6b31",
+        "android_client_info": {
+          "package_name": "com.example.fbtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032456527780-27vsfaabifh6ki0p93gj0p5r7tsb7iv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKh-0_39aTdaifV9UKZYi88bBlEiurhvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032456527780-27vsfaabifh6ki0p93gj0p5r7tsb7iv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
